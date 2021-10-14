@@ -30,6 +30,7 @@ Skills: Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking
 
 ### My Github footprint
 ![GitHub metrics](https://metrics.lecoq.io/asankaSovis)
+
 ***Didn't realize how long it's been!***
 
 ---
