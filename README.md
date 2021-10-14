@@ -1,4 +1,3 @@
----(in progress...)---
 ## Ayubowan 🙏🏾, my name is Asanka
 
 ![I'm a tech nerd and a coding enthusiast](https://github.com/asankaSovis/asankaSovis/blob/main/Cover.png)
