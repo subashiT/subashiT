@@ -36,6 +36,7 @@ Skills: Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking
 
 ### How am I performing?
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asankaSovis&show_icons=true&count_private=true)
+
 ***I know... I'm still trying!***
 
 ---
@@ -45,7 +46,9 @@ Skills: Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking
 💻 Visual Basic / 🖥️ Visual C# / 💾 C / 💿 C++ / 🐍 Python / ☕ Java / 🐘 PHP / 📜 JS / 🌏 HTML / 🖌️ CSS / 💬 ***Sinhala***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asankaSovis)](https://github.com/anuraghazra/github-readme-stats)
+
 ***I'm basically a computer***
+
 ---
 
 ### ***Made with ❤️ in [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg' alt='sl' height='20'>](https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg "Sri Lanka") Sri Lanka***
