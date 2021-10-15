@@ -36,7 +36,7 @@ Skills: Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking
 ---
 
 ### How am I performing?
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asankaSovis&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asankaSovis&show_icons=true&count_private=true&theme=radical)
 
 ***I know... I'm still trying!***
 
