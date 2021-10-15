@@ -46,7 +46,7 @@ Skills: Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking
 
 💻 Visual Basic / 🖥️ Visual C# / 💾 C / 💿 C++ / 🐍 Python / ☕ Java / 🐘 PHP / 📜 JS / 🌏 HTML / 🖌️ CSS / 💬 ***Sinhala***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=asankaSovis&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=asankaSovis&layout=compact&count_private=true&theme=merko)
 
 ***I'm basically a computer***
 
@@ -54,4 +54,4 @@ Skills: Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking
 
 ### ***Made with ❤️ in [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg' alt='sl' height='20'>](https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg "Sri Lanka") Sri Lanka***
 
-Want one like this 😏? [Drop in](https://www.fiverr.com/s2/e49d0013dd)
+***Want a profile like this 😏? [Drop in](https://www.fiverr.com/s2/e49d0013dd)***
