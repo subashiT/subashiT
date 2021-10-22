@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="48px" height="48px"><path fill="#ff6f00" d="M37,42H11c-2.761,0-5-2.239-5-5V11c0-2.761,2.239-5,5-5h26c2.761,0,5,2.239,5,5v26 C42,39.761,39.761,42,37,42z"/><path fill="#fff" d="M33.5,22h-1c-0.828,0-1.5-0.672-1.5-1.5V20c0-3.866-3.134-7-7-7h-4c-3.866,0-7,3.134-7,7v8 c0,3.866,3.134,7,7,7h8c3.866,0,7-3.134,7-7v-4.5C35,22.672,34.328,22,33.5,22z M20,19h5c0.553,0,1,0.448,1,1s-0.447,1-1,1h-5 c-0.553,0-1-0.448-1-1S19.447,19,20,19z M28,29h-8c-0.553,0-1-0.448-1-1s0.447-1,1-1h8c0.553,0,1,0.448,1,1S28.553,29,28,29z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="79.375mm" height="79.375mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7937.5 7937.5"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#FF6F00;stroke-width:211.67;stroke-miterlimit:22.9256}
+    .fil0 {fill:#F7964D;fill-rule:nonzero}
+    .fil1 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M6729.98 7791.98l-5522.46 0c-586.43,0 -1062,-475.57 -1062,-1062l0 -5522.46c0,-586.43 475.57,-1062 1062,-1062l5522.46 0c586.43,0 1062,475.57 1062,1062l0 5522.46c0,586.43 -475.57,1062 -1062,1062z"/>
+  <path class="fil1" d="M5986.53 3543.88l-212.33 0c-175.89,0 -318.63,-142.73 -318.63,-318.62l0 -106.13c0,-821.16 -665.66,-1486.82 -1486.82,-1486.82l-849.58 0c-821.16,0 -1486.82,665.66 -1486.82,1486.82l0 1699.24c0,821.16 665.66,1486.82 1486.82,1486.82l1699.16 -0.08c821.16,0 1486.82,-665.66 1486.82,-1486.82l0 -955.79c0,-175.89 -142.73,-318.62 -318.62,-318.62zm-2867.36 -637.16l1061.99 0c117.45,0 212.42,95.13 212.42,212.41 0,117.29 -94.97,212.42 -212.42,212.42l-1061.99 -0.08c-117.45,0 -212.41,-95.13 -212.41,-212.42 0,-117.28 94.96,-212.33 212.41,-212.33zm1699.16 2123.98l-1699.16 0c-117.45,0 -212.41,-95.13 -212.41,-212.41 0,-117.29 94.96,-212.42 212.41,-212.42l1699.16 0c117.45,0 212.41,95.13 212.41,212.42 0,117.28 -94.96,212.41 -212.41,212.41z"/>
+ </g>
+</svg>
