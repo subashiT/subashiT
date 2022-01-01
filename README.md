@@ -1,6 +1,6 @@
 ## Ayubowan 🙏🏾, my name is Asanka ❄️
 
-![I'm a tech nerd and a coding enthusiast](https://github.com/asankaSovis/asankaSovis/blob/main/Cover.png)
+![I'm a tech nerd and a coding enthusiast](https://github.com/asankaSovis/asankaSovis/blob/main/cover.png)
 
 🤔 Knowing how to code makes you look at the world from a different perspective 🌏. That's why I'm so passionate about coding. Hello World 👋; welcome to my Github profile. I'm still a student and am 23 years of age, so there's a long journey ahead of me 🙆. I like to dream 💬 big and to see other peoples dreams come true. I'm a tech nerd 🐱‍💻 and a coding enthusiast. Hope you might find me amusing.🤩
 
