@@ -13,7 +13,7 @@ Skills: Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking
 
 - 🤗 Passionate about anything tech
 - 👍 Like Music, good art and perfect coding
-- 👷🏾 Working on my identity (and also my profile) 
+- 👷🏾 Working on my place in society (and also my profile) 
 - 🎓 Studying Electronics and Telecommunication Engineering 
 - 📧 How to reach me: akashsovis@gmail.com
 - ⚒️ Want my help? [Catch me on Fiverr](https://www.fiverr.com/akashsovis) 
