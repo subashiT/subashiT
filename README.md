@@ -9,7 +9,7 @@
 
 ---
 
-Skills: Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking 💁🏾, Writing 🧑🏾‍🏫 and Being Friends😏 ***[Why not]***
+Skills: Electronic Engineering 🔌, Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking 💁🏾, Writing 🧑🏾‍🏫 and Being Friends😏 ***[Why not]***
 
 - 🤗 Passionate about anything tech
 - 👍 Like Music, good art and perfect coding
@@ -44,7 +44,7 @@ Skills: Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking
 
 ### What do I know?
 
-💻 Visual Basic / 🖥️ Visual C# / 💾 C / 💿 C++ / 🐍 Python / ☕ Java / 🐘 PHP / 📜 JS / 🌏 HTML / 🖌️ CSS / 💬 ***Sinhala***
+🎛️Verilog / 💻 Visual Basic / 🖥️ Visual C# / 💾 C / 💿 C++ / 🐍 Python / ☕ Java / 🐘 PHP / 📜 JS / 🌏 HTML / 🖌️ CSS / 💬 ***Sinhala***
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=asankaSovis&layout=compact&count_private=true&theme=merko)
 
