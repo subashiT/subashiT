@@ -9,7 +9,7 @@
 
 ---
 
-Skills: Electronic Engineering 🔌, Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking 💁🏾, Writing 🧑🏾‍🏫 and Being Friends😏 ***[Why not]***
+Skills: Electronic Engineering 🔌, FPGAs 🎛️, Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking 💁🏾, Writing 🧑🏾‍🏫
 
 - 🤗 Passionate about anything tech
 - 👍 Like Music, good art and perfect coding
@@ -31,14 +31,10 @@ Skills: Electronic Engineering 🔌, Programming 🧑🏾‍💻, Graphic Design
 ### My Github footprint
 ![GitHub metrics](https://metrics.lecoq.io/asankaSovis)
 
-***Didn't realize how long it's been!***
-
 ---
 
 ### How am I performing?
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asankaSovis&show_icons=true&count_private=true&theme=merko)
-
-***I know... I'm still trying!***
 
 ---
 
@@ -47,8 +43,6 @@ Skills: Electronic Engineering 🔌, Programming 🧑🏾‍💻, Graphic Design
 🎛️Verilog / 💻 Visual Basic / 🖥️ Visual C# / 💾 C / 💿 C++ / 🐍 Python / ☕ Java / 🐘 PHP / 📜 JS / 🌏 HTML / 🖌️ CSS / 💬 ***Sinhala***
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=asankaSovis&layout=compact&count_private=true&theme=merko)
-
-***Told you!***
 
 ---
 
