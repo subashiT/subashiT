@@ -13,11 +13,10 @@ Skills: Electronic Engineering 🔌, FPGAs 🎛️, Programming 🧑🏾‍💻,
 
 - 🤗 Passionate about anything tech
 - 👍 Like Music, good art and perfect coding
-- 👷🏾 Working on my place in society (and also my profile) 
+- 👷🏾 Working on achieving my place in society
 - 🎓 Studying Electronics and Telecommunication Engineering 
 - 📧 How to reach me: akashsovis@gmail.com
 - ⚒️ Want my help? [Catch me on Fiverr](https://www.fiverr.com/akashsovis) 
-- ⚡ Fun fact: I'm a big fan of The Mentalist and Code Lyoko
 
 ---
 
