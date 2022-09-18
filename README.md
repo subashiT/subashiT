@@ -1,4 +1,4 @@
-## Ayubowan 🙏🏾, my name is Asanka 🇱🇰
+## Ayubowan 🙏🏾, I'm Asanka 🇱🇰
 
 ![I'm a tech nerd and a coding enthusiast](https://github.com/asankaSovis/asankaSovis/blob/main/Cover.png)
 
@@ -9,7 +9,7 @@
 
 ---
 
-Skills: Electronic Engineering 🔌, FPGAs 🎛️, Programming 🧑🏾‍💻, Graphic Designing 🧑🏾‍🎨, Speaking 💁🏾, Writing 🧑🏾‍🏫
+**Skills:** Electronic Engineering ⚡ | FPGAs 🎛️ | Programming 🧑🏾‍💻 | Graphic Designing 🧑🏾‍🎨 | Speaking 💁🏾 | Writing 🧑🏾‍🏫
 
 - 🤗 Passionate about anything tech
 - 👍 Like Music, good art and perfect coding
@@ -39,11 +39,16 @@ Skills: Electronic Engineering 🔌, FPGAs 🎛️, Programming 🧑🏾‍💻,
 
 ### What do I know?
 
-🎛️Verilog / 💻 Visual Basic / 🖥️ Visual C# / 💾 C / 💿 C++ / 🐍 Python / ☕ Java / 🐘 PHP / 📜 JS / 🌏 HTML / 🖌️ CSS / 💬 ***Sinhala***
+🎛️Verilog | 💻 Visual Basic | 🖥️ Visual C# | 💾 C | 💿 C++ | 🐍 Python | ☕ Java | 🐘 PHP | 📜 JS | 🌏 HTML | 🖌️ CSS | 💬 ***Sinhala***
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=asankaSovis&layout=compact&count_private=true&theme=merko)
 
 ---
+
+### Highlight Projects
+
+#### 01. Eight Bit Computer Using FPGA
+The [eight_bit_computer](https://github.com/asankaSovis/eight_bit_computer) ...
 
 ### ***Made with ❤️ in [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg' alt='sl' height='20'>](https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg "Sri Lanka") Sri Lanka***
 
