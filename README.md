@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asankasovis&theme=gruvbox&margin-w=15&column=7" alt="Badges" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asankasovis&theme=gruvbox&margin-w=15&column=7&no-frame=true" alt="Badges" /></a> </p>
 
 🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I spend most of my time working on my campus work and writing different pieces of code in my free time. I also like to fix electronic equipment and even design my own if I get the chance.
 
