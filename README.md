@@ -43,7 +43,7 @@
 
 ## 🗝️ Key Languages
 
-⚡I am interested in a variety of fields. I find myself comfortable mostly in windows programming. However, I am interested in hardware descriptions languages like Verilog as well. On the other hand, I also do low level programming such as C/C++ and Assembly. Eventhough not my strong point, I'm also capable of working with desktop publishing. When it comes to scripting, I'm quite confident with Python.
+⚡I am interested in a variety of fields. I find myself comfortable mostly in windows programming. However, I am interested in hardware descriptions languages like Verilog as well. On the other hand, I also do low level programming such as C/C++ and Assembly. Eventhough not my strong point, I'm also capable of working with web development tools. When it comes to scripting, I'm quite confident with Python.
 
 ```
 𓇲 Verilog            ⭐⭐⭐                 💻 Visual Basic      ⭐⭐⭐                 🖥️ Visual C#         ⭐⭐⭐⭐
