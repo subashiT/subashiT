@@ -11,7 +11,7 @@
 
 ---
 
-🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronics and programming. I spend most of my time working my campus work and writing different pieces of code. I also like to fix electronic equipment and even design my own.
+🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I spend most of my time working on my campus work and writing different pieces of code in my free time. I also like to fix electronic equipment and even design my own if I get the chance.
 
 **Skills:** Electronic Engineering ⚡ | FPGAs &nbsp;𓇲&nbsp; | Programming 💻 | Graphic Designing 📊 | Teamwork 🤝 | Writing 📝
 
