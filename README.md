@@ -34,6 +34,7 @@
 ⚡I am passionate about sharing my knowledge with others. This is why I share most of my work on Github for others to see. My hope is that some day someone will find my work useful.
 
 ![GitHub metrics](https://metrics.lecoq.io/asankaSovis)
+![Metrics](https://metrics.lecoq.io/asankaSovis?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FColombo)
 
 ## 📈 Github Performance
 
