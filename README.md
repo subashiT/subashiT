@@ -35,13 +35,18 @@
 
 ⚡I am passionate about sharing my knowledge with others. This is why I share most of my work on Github for others to see. My hope is that some day someone will find my work useful.
 
-![Github Metrics](https://metrics.lecoq.io/asankaSovis?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FColombo)
+![Github Metrics](/metrics/metrics.plugin.base.svg)
 
 ## 📈 Github Performance
 
 ⚡I do my best to keep a healthy work-life balance. Since I'm still a student, I sometimes find it hard to maintain all other aspects of my life in balance which results in a decline in Github activity. However, I do my best to keep this balance and to not disrupt the flow.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asankaSovis&show_icons=true&count_private=true&theme=merko)
+
+## 🏆 Github Achievements
+⚡ With the firee time I have, I always try to do something valuable for myself and for others. These content I upload to Github has allowed me to achieve quite a lot within a very small amount of time. These small achievements make me motivated to continue expanding my skillset and to share more and more with others on the internet. I hope I'm able to continue this all throughout my journey as an engineer.
+
+![Achievements](/metrics/metrics.plugin.achievements.svg)
 
 ## 🗝️ Key Languages
 
@@ -54,7 +59,7 @@
 📜 JS                ⭐⭐                    🌏 HTML              ⭐⭐                   🖌️ CSS               ⭐
 ```
 
-![Key Languages](https://metrics.lecoq.io/asankaSovis?template=classic&base.skip=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=true&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FColombo)
+<p align="center"><img src="/metrics/metrics.plugin.langs.svg" alt="Badges" /></p>
  
 ## 💡Highlight Projects
 
