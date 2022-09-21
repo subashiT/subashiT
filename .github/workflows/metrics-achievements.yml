@@ -19,3 +19,10 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics.plugin.langs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_aliases: javascript:JS typescript:TS
