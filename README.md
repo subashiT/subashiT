@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asankasovis&theme=gruvbox&margin-w=15&column=7&no-frame=true" alt="Badges" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asankasovis&theme=gruvbox&margin-w=15&column=7&no-frame=true" alt="Badges (NOTE: If you see this text, then someting must've gone wrong with loading this widget. Please try reloading. If it still persist, please contact me.)" /></a> </p>
 
 🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I spend most of my time working on my campus work and writing different pieces of code in my free time. I also like to fix electronic equipment and even design my own if I get the chance.
 
@@ -41,7 +41,7 @@
 
 ⚡I do my best to keep a healthy work-life balance. Since I'm still a student, I sometimes find it hard to maintain all other aspects of my life in balance which results in a decline in Github activity. However, I do my best to keep this balance and to not disrupt the flow.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asankaSovis&show_icons=true&count_private=true&theme=merko)
+![GitHub stats (NOTE: If you see this text, then someting must've gone wrong with loading this widget. Please try reloading. If it still persist, please contact me.)](https://github-readme-stats.vercel.app/api?username=asankaSovis&show_icons=true&count_private=true&theme=merko)
 
 ## 🏆 Github Achievements
 ⚡ With the firee time I have, I always try to do something valuable for myself and for others. These content I upload to Github has allowed me to achieve quite a lot within a very small amount of time. These small achievements make me motivated to continue expanding my skillset and to share more and more with others on the internet. I hope I'm able to continue this all throughout my journey as an engineer.
@@ -59,7 +59,7 @@
 📜 JS                ⭐⭐                    🌏 HTML              ⭐⭐                   🖌️ CSS               ⭐
 ```
 
-<p align="center"><img src="/metrics/metrics.plugin.langs.svg" alt="Badges" /></p>
+<p align="center"><img src="/metrics/metrics.plugin.langs.svg" alt="Top Languages" /></p>
  
 ## 💡Highlight Projects
 
