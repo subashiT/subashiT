@@ -44,7 +44,7 @@
 ![GitHub stats (NOTE: If you see this text, then someting must've gone wrong with loading this widget. Please try reloading. If it still persist, please contact me.)](https://github-readme-stats.vercel.app/api?username=asankaSovis&show_icons=true&count_private=true&theme=merko)
 
 ## 🏆 Github Achievements
-⚡ With the firee time I have, I always try to do something valuable for myself and for others. These content I upload to Github has allowed me to achieve quite a lot within a very small amount of time. These small achievements make me motivated to continue expanding my skillset and to share more and more with others on the internet. I hope I'm able to continue this all throughout my journey as an engineer.
+⚡ With the free time I have, I always try to do something valuable for myself and for others. These content I upload to Github has allowed me to achieve quite a lot within a very small amount of time. These small achievements make me motivated to continue expanding my skillset and to share more and more with others on the internet. I hope I'm able to continue this all throughout my journey as an engineer.
 
 ![Achievements](/metrics/metrics.plugin.achievements.svg)
 
@@ -72,13 +72,13 @@ In this project I try to recreate the eight bit computer that [Ben Eater](https:
 - *Repository* - [eight_bit_computer](https://github.com/asankaSovis/eight_bit_computer)
 
 ### 02. 🔐 Muragala Password Manager
-The goal of this project is to create a safe yet simple password manager that is easy to use. With this goal in mind, I created both a Python CLI, a C# library as well as a C# CLI application of it. I am even working on a GUI application of it. I still continue to improve this application and will add more functionalities in the future.
+The goal of this project is to create a safe yet simple password manager that is easy to use. With this goal in mind, I created both a Python CLI, a C# library as well as a C# CLI application of it. I am also working on a GUI application based on the C# library. I still continue to improve this application and will add more functionalities in the future.
 - *Key Technologies* - 🐍 Python | 🖥️ Visual C#
 - *Status* - 🔄 working
 - *Repository* - [password-manager-Python](https://github.com/asankaSovis/password-manager-Python)
 
 ### 03. 🔥 Prometheus Fire Alarm System
-This project was intended to create a next-generation fire alarm system that is both robust and smart. It has the capability to successfully detect and even extinguish fires while also giving full control to the controller remotely. The command panel even has the capability to manage multiple of these fire alarm modules which gives a building much more safety when it comes to fires. I have even uploaded a demonstration to [youtube](https://www.youtube.com/watch?v=StTqXEQ2l-Y) that shows the fire alarm system in action.
+This project was intended to create a next-generation fire alarm system that is both robust and smart. It has the capability to successfully detect and even extinguish fires while also giving full control to the operator remotely. The command panel even has the capability to manage multiple of these fire alarm modules which gives the building much better safety when it comes to fire hazards. I have even uploaded a demonstration to [youtube](https://www.youtube.com/watch?v=StTqXEQ2l-Y) that shows the fire alarm system in action.
 - *Key Technologies* - 💿 C++ | 🖥️ Visual C# | ♾️ Arduino
 - *Status* - ✅ done
 - *Repository* - [prometheus-fire-alarm](https://github.com/asankaSovis/prometheus-fire-alarm)
