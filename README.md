@@ -83,8 +83,16 @@ This project was intended to create a next-generation fire alarm system that is 
 - *Status* - ✅ done
 - *Repository* - [prometheus-fire-alarm](https://github.com/asankaSovis/prometheus-fire-alarm)
 
+### 04. 📩 BitStreamer
+BitStreamer is a data streaming software developed for communication engineers to send a bit stream from one COM port and check how many bits can be recieved back from another COM port. Here, the bitstream from the first COM port can be sent through a communication medium to check the efficiency of communication medium.
+- *Key Technologies* - 💿 C++ | 🖥️ Visual C# | ♾️ Arduino
+- *Status* - ✅ done
+- *Repository* - [BitStreamer](https://github.com/asankaSovis/BitStreamer)
+
 ---
 
 > Want a profile like this 😏? [Drop in](https://www.fiverr.com/s2/e49d0013dd)
 
 ***Made with ❤️ in [<img src='https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg' alt='sl' height='20'>](https://github.com/asankaSovis/asankaSovis/blob/main/lion.svg "Sri Lanka") Sri Lanka***
+
+` © 2022 Asanka Sovis `
