@@ -1,10 +1,11 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/subashiT/subashiT/main/images/devops-banner.png" alt="DevOps Engineer Banner" width="300">
-</div>
 
-# 👋 Hello, I'm Subashi!
+# 👋 Hello, I'm Subashi Withanage!
 
 I'm a passionate **DevOps Engineer** based in Colombo, Sri Lanka, dedicated to automating workflows, optimizing CI/CD pipelines, and building scalable infrastructure. 🚀
+
+🌟 Currently working on: 2048 Game Deployment on Azure. 
+🌱 Learning: Kubernetes, Terraform, and advanced GitOps practices.
+💬 Ask me about: CI/CD, bash scripting, or containerization!
 
 ## 🛠️ Skills & Tools
 
@@ -31,8 +32,6 @@ Scripting: Bash, PowerShell
 
 Version Control: Git, GitHub
 
-
-
 📊 GitHub Stats
 
 ## 📊 GitHub Stats
@@ -50,36 +49,21 @@ Version Control: Git, GitHub
 </table>
 
 
-
-
-
-
-
-
 🏗️ Featured Projects
 
-[Project Name 1]: A CI/CD pipeline using Jenkins and Docker to automate deployments for a microservices app.
+[Project Name 1]: 2048 Game Deployment on Kubernetes and Azure 
 🔗 Repository |
 
-[Project Name 2]: Infrastructure setup with Terraform for an AWS-based web application with auto-scaling.
-🔗 Repository |
-
-[Project Name 3]: A Bash script to monitor AWS resources (S3, EC2, Lambda) using awscli.
+[Project Name 2]: A Bash script to monitor AWS resources (S3, EC2, Lambda, IAM) using awscli.
 🔗 Repository |
 
 
 📫 Connect with Me
 
-LinkedIn
+LinkedIn - https://www.linkedin.com/feed/update/urn:li:activity:7288929181248233473/
 
-Email
+Email - subashiwithanage99@gmail.com
 
-
-
-X
+![Profile Views](https://komarev.com/ghpvc/?username=subashiT&color=blue&style=flat)
 
 
-
-
-
-💡 Fun Fact: I once automated a deployment pipeline that cut release time from hours to minutes! What's your favorite DevOps tool?
