@@ -39,10 +39,10 @@ Version Control: Git, GitHub
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashiT&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="300">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashiT&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="500">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=subashiT&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="300">
+      <img src="https://github-readme-stats.vercel.app/api?username=subashiT&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="500">
       <br><br>
       <img src="https://streak-stats.demolab.com?user=subashiT&theme=transparent&hide_border=true" alt="Streak Stats" width="300">
     </td>
