@@ -65,10 +65,10 @@ AWS Resource Monitoring Script: Built a Bash script using awscli to monitor AWS 
 </div>
 
 
-## 📈 Profile Stats
-<div align="center">
+📈 Profile Stats
+
   ![Profile Views](https://komarev.com/ghpvc/?username=subashiT&color=blue&style=flat)
-</div>
+
 
 
 
