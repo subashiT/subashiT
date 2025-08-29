@@ -38,10 +38,10 @@ Version Control: Git, GitHub
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashiT&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="500">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashiT&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="400">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=subashiT&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="500">
+      <img src="https://github-readme-stats.vercel.app/api?username=subashiT&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="400">
       <br><br>
       <img src="https://streak-stats.demolab.com?user=subashiT&theme=transparent&hide_border=true" alt="Streak Stats" width="300">
     </td>
@@ -51,16 +51,16 @@ Version Control: Git, GitHub
 
 🏗️ Featured Projects
 
-[Project Name 1]: 2048 Game Deployment on Kubernetes and Azure 
+2048 Game Deployment on Kubernetes and Azure: Deployed the classic 2048 game on Azure Kubernetes Service (AKS) using Docker containers. Configured Helm charts for scalable deployments and set up CI/CD with Azure DevOps for automated updates. 
 🔗 Repository |
 
-[Project Name 2]: A Bash script to monitor AWS resources (S3, EC2, Lambda, IAM) using awscli.
+AWS Resource Monitoring Script: Built a Bash script using awscli to monitor AWS resources (S3, EC2, Lambda, IAM). The script checks S3 bucket sizes, EC2 instance states, Lambda function metrics, and IAM user activity, outputting reports to a log file.
 🔗 Repository |
 
 
 📫 Connect with Me
 
-LinkedIn - https://www.linkedin.com/feed/update/urn:li:activity:7288929181248233473/
+<a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> - <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/subashi-withanage-139b87203/)">Connect with me on LinkedIn</a> <img src="https://raw.githubusercontent.com/subashiT/subashiT/main/images/linkedin.png" alt="LinkedIn Icon" width="20">
 
 Email - subashiwithanage99@gmail.com
 
