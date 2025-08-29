@@ -7,7 +7,7 @@
 I'm a passionate **DevOps Engineer** based in Colombo, Sri Lanka, dedicated to automating workflows, optimizing CI/CD pipelines, and building scalable infrastructure. 🚀
 
 ## 🛠️ Skills & Tools
-<div align="center">  
+
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
   
