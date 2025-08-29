@@ -35,7 +35,7 @@ Version Control: Git, GitHub
 
 📊 GitHub Stats
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subashiT&layout=compact&theme=transparent&hide_border=true)
 
 
 
