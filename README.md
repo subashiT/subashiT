@@ -1,17 +1,13 @@
-👋 Hello, I'm Subashi Withanage!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/subashiT/subashiT/main/images/devops-banner.png" alt="DevOps Engineer Banner" width="300">
+</div>
 
-I'm a passionate DevOps Engineer, dedicated to automating workflows, optimizing CI/CD pipelines, and building scalable infrastructure. I love bridging the gap between development and operations to deliver reliable, efficient systems. 🚀
+# 👋 Hello, I'm Subashi!
 
-🌟 Currently working on: 2048 Game Deployment on Azure  .
-🌱 Learning: Kubernetes, Terraform, and advanced GitOps practices.
-💬 Ask me about: CI/CD, containerization, or cloud architecture!
+I'm a passionate **DevOps Engineer** based in Colombo, Sri Lanka, dedicated to automating workflows, optimizing CI/CD pipelines, and building scalable infrastructure. 🚀
 
-🛠️ Skills & Tools
-
-![Alt Text](https://th.bing.com/th/id/R.4db4979f68c828d07e35e9dcdffa1b8b?rik=s%2fCxbN9Iy03EcA&riu=http%3a%2f%2fd3gih7jbfe3jlq.cloudfront.net%2fAWS-Podcast-Title-Art.jpg&ehk=OJInZH%2boZEgastZUv0ibzWL07jbmjoabsyYr%2bxTKKTs%3d&risl=&pid=ImgRaw&r=0)
-
-
-
+## 🛠️ Skills & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 
