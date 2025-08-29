@@ -60,9 +60,13 @@ AWS Resource Monitoring Script: Built a Bash script using awscli to monitor AWS 
 
 📫 Connect with Me
 
-<a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> - <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/subashi-withanage-139b87203/)">Connect with me on LinkedIn</a> <img src="https://raw.githubusercontent.com/subashiT/subashiT/main/images/linkedin.png" alt="LinkedIn Icon" width="20">
-
-Email - subashiwithanage99@gmail.com
+## 📫 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/subashi-withanage-139b87203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:subashiwithanage99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <br>
+  ![Profile Views](https://komarev.com/ghpvc/?username=subashiT&color=blue&style=flat)
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=subashiT&color=blue&style=flat)
 
