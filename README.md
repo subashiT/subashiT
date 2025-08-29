@@ -34,7 +34,6 @@ Version Control: Git, GitHub
 
 📊 GitHub Stats
 
-## 📊 GitHub Stats
 <table>
   <tr>
     <td>
@@ -66,7 +65,10 @@ AWS Resource Monitoring Script: Built a Bash script using awscli to monitor AWS 
 </div>
 
 
+## 📈 Profile Stats
+<div align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=subashiT&color=blue&style=flat)
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=subashiT&color=blue&style=flat)
 
 
