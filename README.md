@@ -54,7 +54,7 @@ Version Control: Git, GitHub
 🔗 Repository |
 
 AWS Resource Monitoring Script: Built a Bash script using awscli to monitor AWS resources (S3, EC2, Lambda, IAM). The script checks S3 bucket sizes, EC2 instance states, Lambda function metrics, and IAM user activity, outputting reports to a log file.
-🔗 Repository |
+🔗 Repository | https://github.com/subashiT/AWS-Resource-Tracker
 
 
 📫 Connect with Me
