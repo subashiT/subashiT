@@ -50,12 +50,11 @@ Version Control: Git, GitHub
 
 🏗️ Featured Projects
 
-2048 Game Deployment on Kubernetes and Azure: Deployed the classic 2048 game on Azure Kubernetes Service (AKS) using Docker containers. Configured Helm charts for scalable deployments and set up CI/CD with Azure DevOps for automated updates. 
-🔗 Repository |
-
 AWS Resource Monitoring Script: Built a Bash script using awscli to monitor AWS resources (S3, EC2, Lambda, IAM). The script checks S3 bucket sizes, EC2 instance states, Lambda function metrics, and IAM user activity, outputting reports to a log file.
 🔗 Repository | https://github.com/subashiT/AWS-Resource-Tracker
 
+Host a React Application on Amazon S3 with HTTPS and Custom Domain
+🔗 Repository | https://github.com/subashiT/React-s3-https-custom-domain
 
 📫 Connect with Me
 
