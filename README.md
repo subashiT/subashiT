@@ -56,7 +56,7 @@ AWS Resource Monitoring Script: Built a Bash script using awscli to monitor AWS 
 Host a React Application on Amazon S3 with HTTPS and Custom Domain.\
 🔗 Repository | https://github.com/subashiT/React-s3-https-custom-domain
 
-S3-slack-notifier - An event-driven AWS pipeline that instantly notifies a Slack channel when a file is uploaded to S3 — built with **Lambda (Python)** and defined via **Terraform (IaC)**. Zero infrastructure management, fully automated.\
+S3-slack-notifier - An event-driven AWS pipeline that instantly notifies a Slack channel when a file is uploaded to S3 — built with **Lambda (Python)** and defined via **Terraform (IaC)**. fully automated.\
 🔗 Repository | https://github.com/subashiT/s3-slack-notifier
 
 📫 Connect with Me
