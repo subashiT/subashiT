@@ -53,7 +53,7 @@ Version Control: Git, GitHub
 AWS Resource Monitoring Script: Built a Bash script using awscli to monitor AWS resources (S3, EC2, Lambda, IAM). The script checks S3 bucket sizes, EC2 instance states, Lambda function metrics, and IAM user activity, outputting reports to a log file.
 🔗 Repository | https://github.com/subashiT/AWS-Resource-Tracker
 
-Host a React Application on Amazon S3 with HTTPS and Custom Domain
+Host a React Application on Amazon S3 with HTTPS and Custom Domain.
 🔗 Repository | https://github.com/subashiT/React-s3-https-custom-domain
 
 📫 Connect with Me
