@@ -59,7 +59,7 @@ Host a React Application on Amazon S3 with HTTPS and Custom Domain.\
 S3-slack-notifier - An event-driven AWS pipeline that instantly notifies a Slack channel when a file is uploaded to S3 — built with **Lambda (Python)** and defined via **Terraform (IaC)**. fully automated.\
 🔗 Repository | https://github.com/subashiT/s3-slack-notifier
 
-Architecture designed for production-Ready WordPress on AWS | HA, Auto-Scaled, Secure & Cost-Optimized
+Architecture designed for production-Ready WordPress on AWS | HA, Auto-Scaled, Secure & Cost-Optimized. \
 🔗 Repository | https://github.com/subashiT/wordpress-aws-production
 
 📫 Connect with Me
