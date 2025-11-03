@@ -62,6 +62,9 @@ S3-slack-notifier - An event-driven AWS pipeline that instantly notifies a Slack
 Architecture designed for production-Ready WordPress on AWS | HA, Auto-Scaled, Secure & Cost-Optimized. \
 🔗 Repository | https://github.com/subashiT/wordpress-aws-production
 
+Deploy Two Node.js Microservices on K3s + API Gateway Routing - Deploy two Node.js microservices on K3s Kubernetes cluster with an API Gateway for intelligent routing.
+🔗 Repository | https://github.com/subashiT/k3s-nodejs-microservices-api-gateway
+
 📫 Connect with Me
 
 <div align="left">
