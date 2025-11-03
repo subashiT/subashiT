@@ -3,9 +3,8 @@
 
 I'm a passionate **DevOps Engineer** based in Colombo, Sri Lanka, dedicated to automating workflows, optimizing CI/CD pipelines, and building scalable infrastructure. 🚀
 
-🌟 Currently working on: 2048 Game Deployment on Azure. 
 🌱 Learning: Kubernetes, Terraform, and advanced GitOps practices.
-💬 Ask me about: CI/CD, bash scripting, or containerization!
+💬 Ask me about: AWS, Kubernetes, CI/CD, bash scripting, or containerization!
 
 ## 🛠️ Skills & Tools
 
@@ -20,7 +19,7 @@ I'm a passionate **DevOps Engineer** based in Colombo, Sri Lanka, dedicated to a
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Cloud: AWS (EC2, S3, Lambda, RDS), Azure
+Cloud: AWS ((S3, Lambda, API Gateway, ECR), Azure
 
 CI/CD: Jenkins
 
@@ -48,7 +47,7 @@ Version Control: Git, GitHub
 </table>
 
 
-🏗️ Featured Projects
+Featured Projects
 
 AWS Resource Monitoring Script: Built a Bash script using awscli to monitor AWS resources (S3, EC2, Lambda, IAM). The script checks S3 bucket sizes, EC2 instance states, Lambda function metrics, and IAM user activity, outputting reports to a log file.\
 🔗 Repository | https://github.com/subashiT/AWS-Resource-Tracker
